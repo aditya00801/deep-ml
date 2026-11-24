@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:29:38.414Z",
+  "generated_at": "2026-11-24T11:24:58.942Z",
   "items": {
     "problem:1901": {
       "kind": "problem",
@@ -126,6 +126,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-23T19:29:23.114Z",
       "last_pushed_at": "2026-11-23T19:29:23.114Z"
+    },
+    "problem:1282": {
+      "kind": "problem",
+      "id": "1282",
+      "title": "Tensor Puzzle: Bincount by Scatter-Add",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1282",
+      "path": "problems/1282-tensor-puzzle-bincount-by-scatter-add",
+      "first_solved_at": "2026-11-24T06:22:25.845Z",
+      "last_pushed_at": "2026-11-24T06:22:25.845Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
