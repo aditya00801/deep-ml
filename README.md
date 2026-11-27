@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 10 problems · 1 labs · 2 math
+**14** solved · 11 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-25 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Optimal Policy from a Loss Matrix](https://www.deep-ml.com/problems/1755) | easy | 2026-11-23 | [solution](problems/1755-optimal-policy-from-a-loss-matrix) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-11-23 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
+| [Feature Density and Approximation Quality](https://www.deep-ml.com/problems/607) | medium | 2026-11-27 | [solution](problems/0607-feature-density-and-approximation-quality) |
 | [Graph Auto-Encoder: GCN Encoder, Inner-Product Decoder and Reconstruction BCE](https://www.deep-ml.com/problems/1901) | medium | 2026-11-21 | [solution](problems/1901-graph-auto-encoder-gcn-encoder-inner-product-decoder-and-reconstruction-bce) |
 | [Tensor Puzzle: Bincount by Scatter-Add](https://www.deep-ml.com/problems/1282) | medium | 2026-11-24 | [solution](problems/1282-tensor-puzzle-bincount-by-scatter-add) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-21 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |

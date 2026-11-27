@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:54:25.457Z",
+  "generated_at": "2026-11-27T17:24:38.026Z",
   "items": {
     "problem:1901": {
       "kind": "problem",
@@ -165,6 +165,19 @@
       "last_pushed_at": "2026-11-26T14:54:24.502Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:607": {
+      "kind": "problem",
+      "id": "607",
+      "title": "Feature Density and Approximation Quality",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/607",
+      "path": "problems/0607-feature-density-and-approximation-quality",
+      "first_solved_at": "2026-11-27T17:24:36.347Z",
+      "last_pushed_at": "2026-11-27T17:24:36.347Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
