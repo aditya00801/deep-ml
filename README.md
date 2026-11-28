@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 11 problems · 1 labs · 2 math
+**15** solved · 12 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-21 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Laplace-Approximate Bayesian Logistic Regression: Monte Carlo and Probit Predictives](https://www.deep-ml.com/problems/1809) | hard | 2026-11-26 | [solution](problems/1809-laplace-approximate-bayesian-logistic-regression-monte-carlo-and-probit-predictives) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-11-23 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
+| [Quantile Balancing: Solve for the Per-Expert Bias from Score Quantiles, Average, Smooth and Re-Center](https://www.deep-ml.com/problems/1982) | hard | 2026-11-28 | [solution](problems/1982-quantile-balancing-solve-for-the-per-expert-bias-from-score-quantiles-average-smooth-and-re-center) |
 
 ## Labs
 
